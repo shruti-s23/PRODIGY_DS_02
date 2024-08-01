@@ -7,7 +7,7 @@ This repository contains an exploratory data analysis (EDA) project on the Titan
 The dataset used in this project is acquired from [Kaggle's Titanic competition](https://www.kaggle.com/c/titanic/data). It includes details of passengers aboard the Titanic, such as their age, gender, ticket class, fare, survival status, etc. The dataset is split into two parts: `train.csv` and `test.csv`. For this analysis, only the `train.csv` dataset is used.
 
 ## Cleaning Process
-The dataset underwent a cleaning process to ensure data integrity and accuracy. Python was used in a Jupyter notebook `TASK02.ipynb` to clean the data and treat missing values. Techniques such as mode imputation were used to handle missing values in variables like Age and Embarked.
+The dataset underwent a cleaning process to ensure data integrity and accuracy. Python was used in a Jupyter notebook `TASK02.ipynb` to clean the data and treat missing values. Techniques such as median imputation were used to handle missing values in variables like Age and Embarked.
 
 ## Visualization
 Using Tableau, various visualizations were created to explore the relationships between variables and identify patterns and trends in the data. The visualizations include bar charts, scatter plots, histograms, packed bubbles, etc. These visualizations help in understanding the demographics of passengers, survival rates, ticket class distributions, fares, etc.
