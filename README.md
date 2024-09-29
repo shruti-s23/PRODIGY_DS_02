@@ -1,5 +1,3 @@
-Sure, here's the edited version with the additional information about the creation of calculated fields for age groups, fare categories, and family size:
-
 ## Overview
 This repository contains an exploratory data analysis (EDA) project on the Titanic dataset using Tableau. The project aims to explore relationships between variables, identify patterns, and visualize insights derived from the dataset.
 
