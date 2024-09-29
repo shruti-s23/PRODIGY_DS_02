@@ -18,7 +18,7 @@ Several calculated fields were created in Tableau to facilitate deeper analysis:
 
 ## How to Use
 1. **Accessing the Dataset**: The Titanic dataset `train.csv` can be downloaded from the Kaggle competition page [here](https://www.kaggle.com/c/titanic/data).
-2. **Data Cleaning**: To replicate the data cleaning process, refer to the Jupyter notebook file named `TASK02.ipynb` provided in the repository.
+2. **Data Cleaning**: To replicate the data cleaning process, refer to the Jupyter notebook file named `TASK02.ipynb` provided in the repository. The cleaned dataset is attached as `complete-2.csv`.
 3. **Visualization**: The Tableau visualization of the Titanic dataset is available in the Tableau file, in a packaged workbook named `TitanicDemographic.twbx` provided in the repository. The visualization includes multiple worksheets exploring different aspects of the dataset.
 4. **Exploratory Data Analysis**: The Tableau dashboards provide insights into the Titanic dataset, exploring relationships between variables and identifying key patterns and trends. Four dashboards are included, each focusing on different aspects of the data.
 
